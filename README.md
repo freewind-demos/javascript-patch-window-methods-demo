@@ -1,6 +1,10 @@
-Js Hello World Demo
-===================
+JavaScript Patch Window Methods Demo
+====================================
 
-Open `index.html` in your browser.
+如何替换window上的方法。
+注意：`arguments`前面一定不能加`this.`，否则都是`undefined`.
 
-You will see "Hello, JS!" on the page.
+```
+open index.html
+```
+
